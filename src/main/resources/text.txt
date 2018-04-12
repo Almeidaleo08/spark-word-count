@@ -1,0 +1,48 @@
+Provavelmente, você já deve ter ouvido falar de Design Thinking ou até mesmo participado de um workshop usando muitos termos relacionados. Feito corretamente, o Design Thinking é uma maneira bastante divertida de gerar toneladas de ideias junto à equipe, e criar um modelo de negócio centrado no usuário. Este post explora as possibilidades da abordagem do Design Thinking no desenvolvimento de APIs mais competitivas e intuitivas para o usuário.
+
+Então vamos do começo. O Design Thinking é uma maneira de resolver problemas complexos e multidimensionais de maneira colaborativa. As raízes da abordagem estão no design de interação humano-computador, que evoluiu para um framework de inovação. Mais especificamente, une métodos para encontrar e alinhar sobreposições na estratégia de negócios, viabilidade tecnológica e necessidades do usuário. É um “processo de solução criativa de problemas”, segundo a IDEO, empresa internacional de consultoria em design e grande proponente do Design Thinking no mainstream tecnológico atual.
+
+
+Por que o Design Thinking faz sentido para as APIs
+
+
+
+As APIs são super técnicas e lidam com código. E isso nada tem nada a ver com design, certo?
+
+Antes de mais nada, vamos refletir: as APIs exigem o envolvimento das várias partes interessadas no processo? Existem necessidades e objetivos conflitantes na API? Existem dúvidas a respeito de quais recursos devem ser melhorados ou priorizados? Se você está se perguntando “talvez”, podemos afirmar que você tem um problema de design.
+
+Design, sempre é bom lembrar, vai muito além de apenas a cor do seu logotipo. Quando começamos a refletir sobre os pensamentos que entram na mente de um humano antes que possam buscar uma ferramenta; quando observamos seu estado emocional enquanto trabalhamos em um produto; quando consideramos um ecossistema geral de usuários e suas esperanças e medos, estamos, na verdade, pensando o design – daí a expressão “design thinking”.
+
+Pensar no design para APIs significa tornar essa primeira experiência o mais simples e agradável possível. Significa entregar valor ao usuário imediatamente. Isso significa ter uma experiência que beneficia um novo programador, bem como um engenheiro de software Sênior. Significa compreender o “porquê”, o “como” e principalmente o significado para as pessoas para as quais você está projetando seu software.
+
+APIs como experiências centradas no usuário
+
+
+
+Ao construir uma API, podemos muitas vezes nos envolver em suposições. É evidente que todos nós sabemos que 404 significa “não encontrado”. Sabemos a diferença entre PUT e POST. As APIs REST são obviamente melhores que o SOAP. Mas espere… pra quê tudo isso? Para um novo usuário, essas coisas podem ser conceitos realmente muito estranhos. Por outro lado, para um desenvolvedor que trabalha para o governo, talvez o SOAP ainda seja uma coisa.
+
+O Design Thinking, por essência, requer que os usuários sejam considerados de uma maneira muito particular. Por exemplo, para escrever uma documentação para um engenheiro experiente, bastaria explicar as coisas de forma diferente do que para um desenvolvedor júnior. Assim como seria possível fazer um tutorial de introdução diferente para um desenvolvedor Ruby, um engenheiro Java ou sugerir ferramentas diferentes para alguém que queira usar o R. Agora, se vai ser importante para um desenvolvedor apresentar um case para o diretor da organização, mais ênfase poderia ser dada no desenvolvimento de materiais de marketing, como whitepapers ou webinars para executivos, do que uma demonstração da sandbox, por exemplo.
+
+Pensamento divergente x convergente
+
+
+
+Benefícios mais específicos são o que o design thinking aponta como pensamento divergente/convergente. Basicamente, o pensamento divergente cria um monte de ideias e o convergente decide essas ideias. O que é ótimo sobre isso é que, se você tem um monte de pessoas pensando sobre o mesmo problema um pouco diferente depois de divergir, há uma tonelada de ideias diferentes, todas considerando o mesmo problema a partir de diferentes pontos de vista. Você começa então a ter uma visão 360 graus de um determinado problema.
+
+Então, convergir significa encontrar padrões a partir desses pontos de vista. Isso significa dizer que uma pessoa pode ter descoberto uma enorme falha que de repente muda o foco das necessidades do usuário. Talvez seja muito claro que a maioria dos problemas se origina de uma fonte e claramente deve ser trabalhada primeiro.
+
+Muitos produtos passam por um ciclo de design thinking, desde grandes ofertas de SaaS até uma experiência de API. A abordagem permite, entre outras coisas, que em um intervalo de literalmente 10 minutos, uma grande equipe com motivações distintas possa enxergar o problema com mais clareza, gerar uma tonelada de soluções e ideias sobre como resolvê-lo e, então, chegar a um acordo sobre qual melhor caminho seguir.
+
+Lembre-se de criar empatia com o seu código
+
+
+
+Outra ferramenta subestimada no processo de design thinking é o chamado “mapa de empatia”. Na maioria das vezes observamos times falando sobre personas. Mas, quais sapatos seu usuário vestiria? Para onde eles vão de férias? Que tipo de vinho eles trazem para um jantar? Eles ainda vão a jantares?
+
+Embora isso possa parecer bobagem, na verdade significa que os designers de API (e, por designers, leia-se qualquer pessoa responsável por criar ou desenvolver uma experiência de API) devem criar maior empatia com os usuários. Para realmente sentir “suas dores”. Para claramente poder decidir qual recurso deve ser priorizado. Para ver onde eles ficam confusos na documentação e por que as pessoas continuam desistindo em um certo ponto no processo de integração.
+
+Mapas de empatia podem ser realizados em apenas 10 minutos. É melhor buscar um grande grupo com diferentes níveis de abordagem e conhecimento e, se possível, levar pesquisas de usuários reais para o grupo. Relatos de uso ou depoimentos em primeira mão (bons e maus!) são inestimáveis. Por fim, é possível colher o palpite sobre o que essa persona hipotética pensa/sente/diz/faz e, principalmente, quais são as “dores” e ganhos ao usar o produto.
+
+Para alguns, essa atividade pode parecer ridícula. E é, de certa forma. No entanto, se no final você entender melhor as pessoas para as quais você está desenvolvendo seus sistemas, isso resultará no envio da coisa certa para a pessoa certa no momento certo. O que é também algo inestimável.
+
+Tal atividade pode ser realizada inclusive remotamente, em uma sessão gigante com 10 pessoas, ou mesmo em um pequeno grupo de designers. Não precisa ser algo elaborado: a chave é colocar-se no lugar de outra pessoa por um momento e, em seguida, capturar esse sentimento para referenciá-lo quantas vezes forem necessárias. Dica: incluir usuários-pesquisadores nesta etapa pode ser muito útil. Eles podem fornecer pesquisas fantásticas e eliminar todos os tipos de suposições sobre seu usuário e público-alvo.
