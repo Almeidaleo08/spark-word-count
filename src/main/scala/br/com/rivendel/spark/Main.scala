@@ -7,12 +7,12 @@ object Main {
 
     def main(args: Array[String]): Unit = {
 
-        var text = ""
+        var file = ""
 
         if (args.length > 0) {
-            text = args(0)
+            file = args(0)
         } else {
-            text = "src/main.resources/text.txt"
+            file = "src/main.resources/text.txt"
         }
 
         Logger.getLogger("org").setLevel(Level.ERROR)
@@ -21,12 +21,11 @@ object Main {
             .setMaster("local[*]")
         val sc = new SparkContext(conf)
 
-        val lines = sc.textFile("src/main/resources/text.txt")
+        val lines = sc.textFile(file)
         val words = lines.flatMap(line => line.split(" "))
 
         val wordCounts = words.countByValue()
         for ((word, count) <- wordCounts) println(word + " : " + count)
-
     }
 
 }
