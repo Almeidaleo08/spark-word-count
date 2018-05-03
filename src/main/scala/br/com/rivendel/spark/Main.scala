@@ -25,6 +25,10 @@ object Main {
         val words = lines.flatMap(line => line.split(" "))
 
         val wordCounts = words.countByValue()
+
+        val rdd = sc.parallelize(wordCounts.toSeq)
+        rdd.coalesce(1).saveAsTextFile("./wordCount")
+
         for ((word, count) <- wordCounts) println(word + " : " + count)
     }
 
